@@ -11,7 +11,8 @@ objective:
 • write appropriate service to be sure ETCD will be always running
 - ETCD version ==> 3.3.9
 - server OS ==> CentOS7
-the related ansible code are in the **mycontrolansible** directory.
+
+The related ansible code are in the **mycontrolansible** directory.
 
 
 **LizardFS.pdf** ==> Setting up LizardFS and testing it
