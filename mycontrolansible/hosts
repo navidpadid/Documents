@@ -1,0 +1,5 @@
+[etcd]
+172.30.18.17	ansible_user=root
+172.30.18.18	ansible_user=root
+172.30.18.19    ansible_user=root
+#95.38.85.253   ansible_user=root

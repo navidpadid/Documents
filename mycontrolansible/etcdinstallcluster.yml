@@ -1,0 +1,10 @@
+---
+- hosts: etcd
+  gather_facts: TRUE
+  roles: 
+  - role: etcd
+    etcd_install: TRUE
+    etcd_service: TRUE
+    etcd_cluster_name: test
+    etcd_cluster_data_dir: /var/lib/etcd
+    etcd_cluster_group_name: etcd   
