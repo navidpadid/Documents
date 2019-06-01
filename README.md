@@ -16,6 +16,7 @@ The related ansible code are in the **mycontrolansible** directory.
 
 
 **LizardFS.pdf** ==> Setting up LizardFS and testing it
+
 objective:
 • setup simple LizardFS master on one server
 • test LizardFS performance on 3,5,7 chunk servers (HDD)
@@ -24,6 +25,7 @@ objective:
 
 
 **GrafanaPrometheus.pdf** ==> Setup Prometheus and Grafana for monitoring
+
 objectives:
 • setup Prometheus server
 • setup Prometheus exporters
@@ -31,6 +33,7 @@ objectives:
 • setup Grafana dashboard
 
 **GalleraCluster.pdf** ==> Setting up a MySQL Gallera cluster
+
 objective:
 • setup an MySQL Gallera cluster on 3 servers
 • write apporopiate service to be sure MySQL Gallera cluster will be always running
@@ -39,6 +42,7 @@ objective:
 - server OS ==> CentOS7
 
 **ProxySQL.pdf** ==> Set up and testing ProxySQL
+
 objectives:
 • setup ProxySQL load balancer on one server
 • configuring ProxySQL
@@ -47,6 +51,7 @@ objectives:
 
 
 **telegrafLogparser.pdf** ==> Using Telegraf to Parse Custom Logs
+
 objective:
 • read custom logs with telegraf
 • parse custom logs with telegraf
@@ -55,6 +60,7 @@ The TIG stack [ telegraf, influxdb, grafana ]
 
 
 **DatabaseTestDoc.pdf** ==> Testing Database response time
+
 We will test 4 databases ( **this doc is very limited and acts as a road map for more professional tests** ):
 RDB:
 -mysql
