@@ -33,32 +33,6 @@ objective:
 - LizardFS version ==> 3.12
 
 
-**GrafanaPrometheus.pdf** ==> Setup Prometheus and Grafana for monitoring
-
-objectives:
-
-• setup Prometheus server
-
-• setup Prometheus exporters
-
-• setup Grafana server
-
-• setup Grafana dashboard
-
-**GalleraCluster.pdf** ==> Setting up a MySQL Gallera cluster
-
-objective:
-
-• setup an MySQL Gallera cluster on 3 servers
-
-• write apporopiate service to be sure MySQL Gallera cluster will be always running
-
-- MySQL version ==> 5.7
-
-- MySQL-wsrep ==> 5.7
-
-- server OS ==> CentOS7
-
 **ProxySQL.pdf** ==> Set up and testing ProxySQL
 
 objectives:
@@ -96,6 +70,35 @@ RDB:
 No-SQL:
 -mongo
 -cassandra
+
+
+**GrafanaPrometheus.pdf** ==> Setup Prometheus and Grafana for monitoring (**very basic**)
+
+objectives:
+
+• setup Prometheus server
+
+• setup Prometheus exporters
+
+• setup Grafana server
+
+• setup Grafana dashboard
+
+
+**GalleraCluster.pdf** ==> Setting up a MySQL Gallera cluster (**very basic**)
+
+objective:
+
+• setup an MySQL Gallera cluster on 3 servers
+
+• write apporopiate service to be sure MySQL Gallera cluster will be always running
+
+- MySQL version ==> 5.7
+
+- MySQL-wsrep ==> 5.7
+
+- server OS ==> CentOS7
+
 
 **TCP_tune.pdf** ==> Some TCP tuning parameters that i have gathered form internet ( **this is a messy doc, just gathered information from Internet, for more info on TCP_TUNING refer to my blog!** )
 
