@@ -102,4 +102,16 @@ objective:
 
 **TCP_tune.pdf** ==> Some TCP tuning parameters that i have gathered form internet ( **this is a messy doc, just gathered information from Internet, for more info on TCP_TUNING refer to my blog!** )
 
+**Scalability Considerations.pdf** ==> The slide contains many best practices **gathered (not written)** by me for better scaling and high-availibility of applications. ( mainly web applications)
+
+The slide covers:
+
+    ScalingHierarchy
+    Pinterest Best Practices
+    Data Partitioning and Sharding Patterns
+    Sharding Considerations and Techniques
+    ProxySQLSharding and
+    ID Generation Approaches
+    Query Optimization
+
 
