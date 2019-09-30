@@ -1,7 +1,6 @@
 # Basic-Documents---DevOps
 Various **limited** documents from my work tools when i used to work as DevOps Engineer, these are **basic usage and limited testing** results ( because I don't have the premission to publicize the full documents that I have written for my work ) 
 
-**For better understanding and more explanations please read my blog ( https://navidmalek.blog.ir/) posts referring to the documents and repository here.**
 
 **Description**:
 
